@@ -3,4 +3,4 @@ export {Router, Worker, PluginCompiler, ResponseType, IRouterRequest, IRouterRes
 export {Compiler, WalletPluginCompiler} from '@ijstech/tsc';
 export {getJobQueue, JobQueue, IJobQueueOptions} from '@ijstech/queue';
 export {Scheduler} from '@ijstech/schedule';
-export * as IPFS from '@ijstech/ipfs';
+export * as IPFS from '@ijstech/ipfs-utils';
